@@ -24,7 +24,7 @@ filled to start applying, build it up as you go, and lead with the capabilities 
 are most confident explaining.
 -->
 
-Name:Oluwapelumi Fadahunsi Adebayo
+Name: Oluwapelumi Fadahunsi Adebayo
 
 **LinkedIn:** www.linkedin.com/in/oluwapelumi-fadahunsi-adebayo
 **GitHub:** [github.com/yourusername]
